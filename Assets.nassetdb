@@ -1,1 +1,24 @@
-{"da7da530-b54d-401b-980e-a7cbf0778b54":{"assetTypeGuid":"c4e01aa2-495d-4eb1-b9be-fe0e30500b07","componentTypeGuid":"c4e01aa2-495d-4eb1-b9be-fe0e30500b07","path":"Assets/Thumbnail/LeoCAD_Thumb.tex.nasset"},"guid":"ac7fbff5-0905-d002-d169-2d562ee8a133"}
+{
+    "ac7fbff5-0905-d002-d169-2d562ee8a133": {
+        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
+        "path": "Assets.nassetdb"
+    },
+    "d805b143-8aee-40d5-8d54-b43c6ec8ae7e": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+        "path": "Assets/LeoCAD.scene.nasset"
+    },
+    "db36e018-326d-42e7-b70e-b44b5f8e9164": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "Project.nproject",
+        "name": "LeoCAD",
+        "thumbnail": "da7da530-b54d-401b-980e-a7cbf0778b54",
+        "tags": [
+            "5f1de2fb-690d-4f75-bbc3-b5e83a5d08d9"
+        ]
+    },
+    "guid": "ac7fbff5-0905-d002-d169-2d562ee8a133",
+    "imported_assets": [
+        "da7da530-b54d-401b-980e-a7cbf0778b54"
+    ]
+}

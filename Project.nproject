@@ -13,7 +13,7 @@
     "binary_directory": "bin",
     "library_directory": "lib",
     "thumbnail_guid": "da7da530-b54d-401b-980e-a7cbf0778b54",
-    "default_scene": "",
+    "default_scene": "d805b143-8aee-40d5-8d54-b43c6ec8ae7e",
     "tags": [ "5f1de2fb-690d-4f75-bbc3-b5e83a5d08d9" ],
     "source": "Project.nproject",
 	"settings": {
